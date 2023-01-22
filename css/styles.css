@@ -1,0 +1,191 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none
+}
+
+ul {
+    list-style: none;
+}
+
+h1{
+    color: blueviolet;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+}
+
+h3{
+    text-align: center;
+}
+
+p{
+    margin-left: 1rem;
+    line-height: 2;
+    text-align: center;
+}
+
+body{
+    margin-top: 5rem;
+    margin-left: 1rem;
+    text-align: justify;
+    background-color: lightyellow;
+}
+
+.imagenes{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    width: 50rem;
+}
+
+.titulo{
+    margin: 2rem;
+}
+
+.imagenes2{
+    margin-bottom: 1rem;
+    width: 50rem;
+}
+
+.imagenes1{
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    width: 50rem;
+    
+}
+.imagenes4{
+    margin: 3rem;
+    width: 40rem;
+    display: flexbox;
+
+}
+
+header{
+    position: fixed;
+    top: 0;
+    background-color: blanchedalmond;
+    width: 100%;
+    z-index: 1;
+    margin-bottom: 60rem;
+}
+    
+img{
+    max-width: 100%;
+}
+
+.logo{
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+nav{
+    margin-top: 1rem;
+}
+
+div{
+  margin: 20rem 2rem 1rem 2rem;
+  
+}
+
+.menu-nav{
+    text-align: center;
+}
+.menu-nav li {
+    display: inline;
+    margin: 3rem;
+}
+
+#productos{
+    margin-top: 15rem;
+}
+
+h4{
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+}
+
+.card{
+    background-color: bisque;
+    padding: 3rem ;
+    margin: 3rem;
+    width: 300px;
+    height: 300pix;
+    border:solid 3px blueviolet;
+    text-align: center;
+}
+
+#restos{
+    margin-top: 15rem;
+    text-align: left;
+    line-height: 1;
+    text-decoration: none;
+}
+
+.organizacion{
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-bottom: 0;
+}
+.text{
+   text-align: left;
+}
+
+section {
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}
+section p{
+    margin-top: auto;
+    margin-bottom: 1;
+}
+
+#mapa{
+    margin: 20rem;
+    margin-bottom: 2rem;
+    background-color: rgb(202, 171, 231);   
+}
+section{
+    margin: 1rem;
+}
+
+section h3{
+    margin-top: 1em;
+    text-align: left;
+}
+section p{
+    margin-top: 1rem;
+    text-align: left;
+}
+
+.formulario{
+    width: 1px;
+    height: 20pix;
+    display: inline-block;
+    line-height: 0rem;
+    margin: 1rem;
+    padding: 1rem;
+    vertical-align: top;
+    
+    
+}
+.formulario__NyP{
+    text-align: left;  
+    line-height: 1;
+}
+.formulario__Correo{
+    text-align: left;
+    line-height: 1;
+}
+
+.formulario__Telefono{
+    text-align: left;
+    line-height: 1;
+}
+.formulario__Mensaje{
+    text-align: left;
+    line-height: 1;
+}
+
